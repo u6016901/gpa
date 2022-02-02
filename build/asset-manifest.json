@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gpa-kasidit/static/css/main.56e6221f.css",
+    "main.js": "/gpa-kasidit/static/js/main.528532e4.js",
+    "static/js/787.fe5f0542.chunk.js": "/gpa-kasidit/static/js/787.fe5f0542.chunk.js",
+    "index.html": "/gpa-kasidit/index.html",
+    "main.56e6221f.css.map": "/gpa-kasidit/static/css/main.56e6221f.css.map",
+    "main.528532e4.js.map": "/gpa-kasidit/static/js/main.528532e4.js.map",
+    "787.fe5f0542.chunk.js.map": "/gpa-kasidit/static/js/787.fe5f0542.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.528532e4.js"
+  ]
+}
